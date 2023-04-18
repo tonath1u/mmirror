@@ -12,13 +12,13 @@
                 "Te amo para siempre."
         ],
         "morning" : [
-                "Siempre me haces reír.",
-                "Me haces sentir seguro.",
-                "Tienes una voz hermosa.",
-                "Tu cabello es precioso.",
-                "Tienes un estilo único.",
-                "Tienes unos ojos hermosos.",
-                "Me encanta cómo te vistes.",
+                "Siempre me\n haces reír.",
+                "Me haces\n sentir seguro.",
+                "Tienes una\n voz hermosa.",
+                "Tu cabello\n es precioso.",
+                "Tienes un\n estilo único.",
+                "Tienes unos\n ojos hermosos.",
+                "Me encanta\n cómo te vistes.",
                 "Eres muy inteligente."
         ],
         "afternoon" : [
@@ -26,17 +26,14 @@
                 "Eres la persona más\n amable que conozco.",
                 "Tienes una energía\n contagiosa.",
                 "Eres la mejor compañera.",
-                "Tu presencia me tranquiliza.",
-                "Eres una madre maravillosa.",
-                "Tu creatividad siempre\n me sorprende.",
-                "Tienes un corazón enorme.",
-                "Me haces sentir amado.",
-                "Siempre estás presente\n cuando te necesito."
+                "Tu presencia\n me tranquiliza.",
+                "Eres una madre\n maravillosa.",
+                "Tienes un\n corazón enorme.",
+                "Me haces sentir amado."
         ],
         "evening" : [
                 "Me haces sentir\n orgulloso.",
                 "Eres una gran compañera.",
-                "Tienes una personalidad\n fascinante.",
                 "Tu amor es invaluable.",
                 "Eres una persona\n muy compasiva.",
                 "Me haces sentir vivo.",
