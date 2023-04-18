@@ -1,6 +1,49 @@
 {
-        "anytime" : ["Amor da minha vida.","Te amo mais.","Eres mi todo.","Eres mi sol.","Mi corazón es tuyo.","Eres mi alma gemela.","Siempre juntos tú y yo.","Eres mi gran amor.","Eres mi razón de ser.","Te amo para siempre."],
-        "morning" : ["Tienes una sonrisa encantadora.","Siempre me haces reír.","Me haces sentir seguro.","Tienes una voz hermosa.","Tu cabello es precioso.","Tienes un estilo único.","Tienes unos ojos hermosos.","Me encanta cómo te vistes.","Eres muy inteligente."],
-        "afternoon" : ["Me haces sentir completo.","Eres la persona más amable que conozco.","Tienes una energía contagiosa.","Eres la mejor compañera de aventuras.","Tu presencia me tranquiliza.","Eres una madre maravillosa.","Tu creatividad siempre me sorprende.","Tienes un corazón enorme.","Me haces sentir amado.","Siempre estás presente cuando te necesito."],
-        "evening" : ["Me haces sentir orgulloso.","Eres una gran compañera de equipo.","Tienes una personalidad fascinante.","Tu amor incondicional es invaluable.","Eres una persona muy compasiva.","Me haces sentir vivo.","Eres una gran comunicadora.","Tienes un gran sentido del humor.","Me haces sentir afortunado.","Eres una persona muy generosa.","Tu apoyo siempre es bien recibido."]
+        "anytime" : [
+                "Amor da minha vida.",
+                "Te amo mais.",
+                "Eres mi todo.",
+                "Eres mi sol.",
+                "Mi corazón es tuyo.",
+                "Eres mi alma gemela.",
+                "Siempre juntos",
+                "Eres mi gran amor.",
+                "Eres mi razón de ser.",
+                "Te amo para siempre."
+        ],
+        "morning" : [
+                "Siempre me haces reír.",
+                "Me haces sentir seguro.",
+                "Tienes una voz hermosa.",
+                "Tu cabello es precioso.",
+                "Tienes un estilo único.",
+                "Tienes unos ojos hermosos.",
+                "Me encanta cómo te vistes.",
+                "Eres muy inteligente."
+        ],
+        "afternoon" : [
+                "Me haces sentir\n completo.",
+                "Eres la persona más\n amable que conozco.",
+                "Tienes una energía\n contagiosa.",
+                "Eres la mejor compañera.",
+                "Tu presencia me tranquiliza.",
+                "Eres una madre maravillosa.",
+                "Tu creatividad siempre\n me sorprende.",
+                "Tienes un corazón enorme.",
+                "Me haces sentir amado.",
+                "Siempre estás presente\n cuando te necesito."
+        ],
+        "evening" : [
+                "Me haces sentir\n orgulloso.",
+                "Eres una gran compañera.",
+                "Tienes una personalidad\n fascinante.",
+                "Tu amor es invaluable.",
+                "Eres una persona\n muy compasiva.",
+                "Me haces sentir vivo.",
+                "Eres una gran comunicadora.",
+                "Tienes un gran\n sentido del humor.",
+                "Me haces sentir\n afortunado.",
+                "Eres una persona\n muy generosa.",
+                "Tu apoyo siempre\n es bien recibido."
+        ]
 }
